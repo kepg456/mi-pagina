@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+h1:hover {
+    color: red;
+  
+}
+
+body{
+    background-color: steelblue;
+    color:aliceblue;
+    padding: 100px;
+    font-size: 15px;
+}
